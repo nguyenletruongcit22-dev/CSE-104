@@ -1,8 +1,8 @@
-import java.util.*;
-import java.lang.*;
+package Lab1;
 
-class Main.java
-{
+import java.util.Scanner;
+
+public class EIINCRDES {
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		 Scanner sc = new Scanner(System.in);

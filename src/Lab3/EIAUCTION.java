@@ -15,7 +15,7 @@ public class EIAUCTION {
 			b[a[i]]++;
 			c[a[i]] = i;
 		}
-		int max = -1;
+		
 		for (int i = 6; i >= 1; i--) {
 			if (b[i] == 1) {
 				System.out.println(c[i] + 1);

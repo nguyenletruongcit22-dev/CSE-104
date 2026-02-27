@@ -1,8 +1,9 @@
-import java.util.*;
-import java.lang.*;
+package Lab1;
 
-class Main.java
-{
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class EIUTRIGLE {
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	

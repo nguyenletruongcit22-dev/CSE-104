@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EIUCHRMS {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		long levels[] = { 2_000_000, 5_000_000, 10_000_000, 20_000_000, 50_000_000, 100_000_000, 200_000_000,

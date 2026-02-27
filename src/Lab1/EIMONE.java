@@ -1,8 +1,8 @@
+package Lab1; 
 import java.util.*;
 import java.lang.*;
 
-class Main.java
-{
+public class EIMONE {
 	static Scanner sc = new Scanner (System.in);
 	public static void main (String[] args) throws java.lang.Exception
 	{
